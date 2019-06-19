@@ -1,0 +1,35 @@
+Itens implementados:
+
+A. Criar uma aplicação java web utilizando JavaServer Faces (JSF)
+	A aplicação utiliza o Spring Framework, configurada para execução de páginas jsf em um containter Web embarcado (tomcat).  
+	Para execução deste projeto em ambiente local, você deverá importá-lo como um projeto maven 
+	no IDE de sua preferência e executar a classe CrudesigApplication.java.
+	
+B. Utilizar persistência em um banco de dados
+	Utilizei o banco PostgreSQL. Para rodar o projeto local, será necessário criar um banco de acordo com 
+	as configurações do arquivo application.properties deste projeto.
+
+C. Utilizar Hibernate e JPA
+	Para maior produtividade, foi utilizado JPA junto com o Spring Data JPA.
+
+D. Utilizar Spring Framework 5 e Sprint Boot 2
+
+E. Utilizar Bootstrap 4
+
+F. Utilizar Primefaces
+
+G. Utilizar testes de unidades 
+	Por questão de tempo, foram implementados apenas os testes do método salvar. Os testes estão implementados 
+	na classe CrudesigApplicationTests.java
+
+H. Criar uma Single-Page Application utilizando React, Vue ou Angular.
+	Neste item, utilizei o Framework Angular na sua versão 7.0.3. O exemplo foi baseado 
+	no projeto http://todomvc.com/examples/angular2/. As instruções para execução do 
+	projeto encontram-se no arquivo README.md. 
+
+I. Publicar projeto no heroku
+	Aplicação disponível em: https://pacific-sea-93717.herokuapp.com/
+
+J. Criar aplicativo mobile utilizando Flutter
+	A implementação deste item foi incompleta, sendo implementado apenas a listagem e o cadastro de itens.
+	
